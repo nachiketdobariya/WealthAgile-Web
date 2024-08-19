@@ -37,16 +37,16 @@ We're excited to bring the WealthAgile experience to your web browser! Stay tune
 Explore the WealthAgile Web with these preview images:
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10">
-  <img src="screenshot/Screenshot1.png" alt="Screenshot 1" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot2.png" alt="Screenshot 2" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot3.png" alt="Screenshot 3" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot4.png" alt="Screenshot 4" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot5.png" alt="Screenshot 5" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot6.png" alt="Screenshot 6" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot7.png" alt="Screenshot 7" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot8.png" alt="Screenshot 8" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot9.png" alt="Screenshot 9" style="width: 272px; height: auto;">
-  <img src="screenshot/Screenshot10.png" alt="Screenshot 10" style="width: 272px; height: auto;">
+  <img className="w-full" src="screenshot/Screenshot1.png" alt="Screenshot 1">
+  <img className="w-full" src="screenshot/Screenshot2.png" alt="Screenshot 2">
+  <img className="w-full" src="screenshot/Screenshot3.png" alt="Screenshot 3">
+  <img className="w-full" src="screenshot/Screenshot4.png" alt="Screenshot 4">
+  <img className="w-full" src="screenshot/Screenshot5.png" alt="Screenshot 5">
+  <img className="w-full" src="screenshot/Screenshot6.png" alt="Screenshot 6">
+  <img className="w-full" src="screenshot/Screenshot7.png" alt="Screenshot 7">
+  <img className="w-full" src="screenshot/Screenshot8.png" alt="Screenshot 8">
+  <img className="w-full" src="screenshot/Screenshot9.png" alt="Screenshot 9">
+  <img className="w-full" src="screenshot/Screenshot10.png" alt="Screenshot 10">
 </div>
 
 ---
